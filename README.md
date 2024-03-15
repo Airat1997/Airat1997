@@ -10,7 +10,7 @@
         <th>Tools</th>
     </tr>
     <tr>
-        <td>[SimpleDocker](https://github.com/Airat1997/SimpleDocker)</td>
+        <td>[Текст ссылки](https://www.example.com)</td>
         <td>Ячейка 2.1</td>
     </tr>
     <tr>
