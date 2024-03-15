@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-
+Student of school 21, actively studying programming languages, striving for a career in programming
 
 ### Учебные проекты
 | Name          | Description        | Tools |
