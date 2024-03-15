@@ -5,6 +5,6 @@
 ### Учебные проекты
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-| [SimpleDocker](https://github.com/Airat1997/SimpleDocker) |     |  |
-| столбец 2     |  |    |
-| зебра-строки  |          |     |
+| [Simple Docker](https://github.com/Airat1997/SimpleDocker) |     |  |
+| [Simple Bash Utils](https://github.com/Airat1997/Simple-Bash-Utils)     |  |    |
+| [Matrix](https://github.com/Airat1997/s21_matrix-) |          |     |
