@@ -11,3 +11,8 @@ Student of school 21, actively studying programming languages, striving for a ca
 |[s21_decimal](https://github.com/Airat1997/s21_decimal) | | |
 |[s21_matrix](https://github.com/Airat1997/s21_matrix-) | | |
 |[s21_matrix++](https://github.com/Airat1997/s21_matrix-C-) | | |
+## DevOps
+| Name          | Description        | Tools |
+| ------------- |:------------------:| -----:|
+|[SimpleDocker](https://github.com/Airat1997/SimpleDocker)|||
+|[CI/CD](https://github.com/Airat1997/CICD)|||
