@@ -14,5 +14,5 @@ Student of school 21, actively studying programming languages, striving for a ca
 ## DevOps
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-|[SimpleDocker](https://github.com/Airat1997/SimpleDocker)|||
-|[CI/CD](https://github.com/Airat1997/CICD)|||
+|[SimpleDocker](https://github.com/Airat1997/SimpleDocker)|Разработка простого докер-образа для собственного сервера.||
+|[CI/CD](https://github.com/Airat1997/CICD)|Разработка простого CI/CD для проекта SimpleBashUtils. Сборка, тестирование, развертывание.||
