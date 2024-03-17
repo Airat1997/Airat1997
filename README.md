@@ -2,8 +2,10 @@
 Student of school 21, actively studying programming languages, striving for a career in programming
 
 ### Учебные проекты
+## C/C++
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-| [Simple Docker](https://github.com/Airat1997/SimpleDocker) |     |  |
-| [Simple Bash Utils](https://github.com/Airat1997/Simple-Bash-Utils)     |  |    |
-| [Matrix](https://github.com/Airat1997/s21_matrix-) |          |     |
+|[SmartCalc_v1.0](https://github.com/Airat1997/SmartCalc_v1.0) |     |  |
+|[Simple Bash Utils](https://github.com/Airat1997/Simple-Bash-Utils)     |  |    |
+|[s21 stringplus] (https://github.com/Airat1997/s21_stringplus)|          |     |
+| | | |
