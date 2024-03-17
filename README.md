@@ -7,10 +7,10 @@ Student of school 21, actively studying programming languages, striving for a ca
 | ------------- |:------------------:| -----:|
 |[SmartCalc_v1.0](https://github.com/Airat1997/SmartCalc_v1.0) |Калькулятор с графическим интерфейсом, реализованный через алгоритм Дейкстры|Makefile, QT, check.h|
 |[Simple Bash Utils](https://github.com/Airat1997/Simple-Bash-Utils)     |Утилиты cat и grep на языке C|Makefile, Bash|
-|[s21_stringplus](https://github.com/Airat1997/s21_stringplus)|Реализация библиотеки обработки строк string.h на языке С|Makefile, check.h, valgrind|
-|[s21_decimal](https://github.com/Airat1997/s21_decimal) | |Makefile, check.h, valgrind, docker
-|[s21_matrix](https://github.com/Airat1997/s21_matrix-) | |Makefile, check.h, valgrind, docker|
-|[s21_matrix++](https://github.com/Airat1997/s21_matrix-C-) | |Makefile, gtest.h, valgrind, docker|
+|[s21_stringplus](https://github.com/Airat1997/s21_stringplus)|Реализация собственной библиотеки обработки строк s21_string.h на языке С|Makefile, check.h, valgrind|
+|[s21_decimal](https://github.com/Airat1997/s21_decimal) | Реализация собственной библиотеки s21_decimal.h  |Makefile, check.h, valgrind, docker
+|[s21_matrix](https://github.com/Airat1997/s21_matrix-) | Реализация библиотеки s21_matrix.h |Makefile, check.h, valgrind, docker|
+|[s21_matrix++](https://github.com/Airat1997/s21_matrix-C-) | Реализация библиотеки s21_matrix.h на С++ в ООП стиле |Makefile, gtest.h, valgrind, docker|
 ## DevOps
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
