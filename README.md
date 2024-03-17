@@ -7,5 +7,7 @@ Student of school 21, actively studying programming languages, striving for a ca
 | ------------- |:------------------:| -----:|
 |[SmartCalc_v1.0](https://github.com/Airat1997/SmartCalc_v1.0) |     |  |
 |[Simple Bash Utils](https://github.com/Airat1997/Simple-Bash-Utils)     |  |    |
-|[s21 stringplus] (https://github.com/Airat1997/s21_stringplus)|          |     |
-| | | |
+|[s21_stringplus](https://github.com/Airat1997/s21_stringplus)|          |     |
+|[s21_decimal](https://github.com/Airat1997/s21_decimal) | | |
+|[s21_matrix](https://github.com/Airat1997/s21_matrix-) | | |
+|[s21_matrix++](https://github.com/Airat1997/s21_matrix-C-) | | |
