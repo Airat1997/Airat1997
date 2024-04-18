@@ -19,4 +19,4 @@ Student of school 21, actively studying programming languages, striving for a ca
 ## Java
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-|[Forum](https://github.com/Airat1997/GreenAtom)|Разработка движка для форума с сообщениями, реализацию http запросов по API|Swagger Editor|
+|[Forum](https://github.com/Airat1997/GreenAtom)|Разработка движка для форума с сообщениями, реализацию http запросов. Rest API|Swagger Editor|
