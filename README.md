@@ -1,6 +1,10 @@
 ### Hi there 👋
 Student of school 21, actively studying programming languages, striving for a career in programming
-
+### Pet-проекты 
+## Java
+| Name          | Description        | Tools |
+| ------------- |:------------------:| -----:|
+|[Forum](https://github.com/Airat1997/GreenAtom)|Разработка движка для форума с сообщениями, реализация http запросов. Rest API|Swagger Editor|
 ### Учебные проекты 
 ## C/C++
 | Name          | Description        | Tools |
@@ -16,7 +20,3 @@ Student of school 21, actively studying programming languages, striving for a ca
 | ------------- |:------------------:| -----:|
 |[SimpleDocker](https://github.com/Airat1997/SimpleDocker)|Разработка простого докер-образа для собственного сервера.||
 |[CI/CD](https://github.com/Airat1997/CICD)|Разработка простого CI/CD для проекта SimpleBashUtils. Сборка, тестирование, развертывание.||
-## Java
-| Name          | Description        | Tools |
-| ------------- |:------------------:| -----:|
-|[Forum](https://github.com/Airat1997/GreenAtom)|Разработка движка для форума с сообщениями, реализация http запросов. Rest API|Swagger Editor|
