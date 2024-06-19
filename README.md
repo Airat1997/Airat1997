@@ -4,7 +4,7 @@ Student of school 21, actively studying programming languages, striving for a ca
 ## Java
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-|[CRUD](https://github.com/Airat1997/SpringRest)|Разработка движка для форума с сообщениями, реализация http запросов. Rest API|Swagger Editor|
+|[CRUD](https://github.com/Airat1997/SpringRest)|CRUD приложение. Разработанное с использованием Spring Boot и PostgreSQL.  Используется Criteria API и Specification для гибкой сортировки и фильтрации данных. И Docker для разделения приложения и бд на отдельные контейнеры.|Swagger Editor|
 ### Учебные проекты 
 ## C/C++
 | Name          | Description        | Tools |
