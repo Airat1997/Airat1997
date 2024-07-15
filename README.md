@@ -10,6 +10,7 @@ Student of school 21, actively studying programming languages, striving for a ca
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
 |[Java_Bootcamp.Day00](https://github.com/Airat1997/Java_Bootcamp.Day00)|Массивы, основные языковые конструкции Java|Java 1.8|
+|[Java_Bootcamp.Day01](https://github.com/Airat1997/Java_Bootcamp.Day01)|OOP and Java Collections|Java 1.8|
 
 ## C/C++
 | Name          | Description        | Tools |
