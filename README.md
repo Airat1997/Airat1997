@@ -9,10 +9,11 @@ Student of school 21, actively studying programming languages, striving for a ca
 ## Java
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-|[Java_Bootcamp.Day00](https://github.com/Airat1997/Java_Bootcamp.Day00)|Массивы, основные языковые конструкции Java|Java 1.8|
+|[Java_Bootcamp.Day00](https://github.com/Airat1997/Java_Bootcamp.Day00)|Arrays, basic Java language constructs|Java 1.8|
 |[Java_Bootcamp.Day01](https://github.com/Airat1997/Java_Bootcamp.Day01)|OOP and Java Collections|Java 1.8|
 |[Java_Bootcamp.Day02](https://github.com/Airat1997/Java_Bootcamp.Day02)|IO and Files|Java 1.8|
 |[Java_Bootcamp.Day03](https://github.com/Airat1997/Java_Bootcamp.Day03)|Threads|Java 1.8|
+|[Java_Bootcamp.Day04](https://github.com/Airat1997/Java_Bootcamp.Day04)|JAR|Java 1.8|
 
 ## C/C++
 | Name          | Description        | Tools |
