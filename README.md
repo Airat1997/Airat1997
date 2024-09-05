@@ -14,6 +14,9 @@ Student of school 21, actively studying programming languages, striving for a ca
 |[Java_Bootcamp.Day02](https://github.com/Airat1997/Java_Bootcamp.Day02)|IO and Files||
 |[Java_Bootcamp.Day03](https://github.com/Airat1997/Java_Bootcamp.Day03)|||
 |[Java_Bootcamp.Day04](https://github.com/Airat1997/Java_Bootcamp.Day04)|JAR||
+|[Java_Bootcamp.Day05](https://github.com/Airat1997/Java_Bootcamp.Day05)|SQL/JDBC||
+|[Java_Bootcamp.Day06](https://github.com/Airat1997/Java_Bootcamp.Day06)|JUnit/Mockito||
+|[Java_Bootcamp.Day08](https://github.com/Airat1997/Java_Bootcamp.Day08)|Spring||
 
 ## C/C++
 | Name          | Description        | Tools |
