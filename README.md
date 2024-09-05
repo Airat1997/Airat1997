@@ -7,16 +7,16 @@ Student of school 21, actively studying programming languages, striving for a ca
 |[CRUD](https://github.com/Airat1997/SpringRest)|CRUD приложение. Разработанное с использованием Spring Boot и PostgreSQL.  Используется Criteria API и Specification для гибкой сортировки и фильтрации данных. И Docker для разделения приложения и БД на отдельные контейнеры.|Swagger Editor|
 ### Учебные проекты 
 ## Java
-| Name          | Description        | Tools |
-| ------------- |:------------------:| -----:|
-|[Java_Bootcamp.Day00](https://github.com/Airat1997/Java_Bootcamp.Day00)|Arrays, basic Java language constructs||
-|[Java_Bootcamp.Day01](https://github.com/Airat1997/Java_Bootcamp.Day01)|OOP and Java Collections||
-|[Java_Bootcamp.Day02](https://github.com/Airat1997/Java_Bootcamp.Day02)|IO and Files||
-|[Java_Bootcamp.Day03](https://github.com/Airat1997/Java_Bootcamp.Day03)|||
-|[Java_Bootcamp.Day04](https://github.com/Airat1997/Java_Bootcamp.Day04)|JAR||
-|[Java_Bootcamp.Day05](https://github.com/Airat1997/Java_Bootcamp.Day05)|SQL/JDBC||
-|[Java_Bootcamp.Day06](https://github.com/Airat1997/Java_Bootcamp.Day06)|JUnit/Mockito||
-|[Java_Bootcamp.Day08](https://github.com/Airat1997/Java_Bootcamp.Day08)|Spring||
+| Name          | Description        |
+| ------------- |:------------------:|
+|[Java_Bootcamp.Day00](https://github.com/Airat1997/Java_Bootcamp.Day00)|Arrays, basic Java language constructs|
+|[Java_Bootcamp.Day01](https://github.com/Airat1997/Java_Bootcamp.Day01)|OOP and Java Collections|
+|[Java_Bootcamp.Day02](https://github.com/Airat1997/Java_Bootcamp.Day02)|IO and Files|
+|[Java_Bootcamp.Day03](https://github.com/Airat1997/Java_Bootcamp.Day03)||
+|[Java_Bootcamp.Day04](https://github.com/Airat1997/Java_Bootcamp.Day04)|JAR|
+|[Java_Bootcamp.Day05](https://github.com/Airat1997/Java_Bootcamp.Day05)|SQL/JDBC|
+|[Java_Bootcamp.Day06](https://github.com/Airat1997/Java_Bootcamp.Day06)|JUnit/Mockito|
+|[Java_Bootcamp.Day08](https://github.com/Airat1997/Java_Bootcamp.Day08)|Spring|
 
 ## C/C++
 | Name          | Description        | Tools |
