@@ -4,7 +4,8 @@ Student of school 21, actively studying programming languages, striving for a ca
 ## Java
 | Name          | Description        | Tools |
 | ------------- |:------------------:| -----:|
-|[CRUD](https://github.com/Airat1997/SpringRest)|CRUD приложение. Разработанное с использованием Spring Boot и PostgreSQL.  Используется Criteria API и Specification для гибкой сортировки и фильтрации данных. И Docker для разделения приложения и БД на отдельные контейнеры.|Swagger Editor|
+|[CRUD](https://github.com/Airat1997/SpringRest)|CRUD приложение. Разработанное с использованием Spring Boot и PostgreSQL.  Используется Criteria API и Specification для гибкой сортировки и фильтрации данных. И Docker для разделения приложения и БД на отдельные контейнеры.||
+|[SpeedRace](https://github.com/Airat1997/SpeedRace)|SpedRace - это реализация классической аркадной игры "Speed Race", выпущенной компанией Taito в 1974 году, на языке программирования Java. Игра адаптирована для современного веб-интерфейса с сервером на основе REST API, позволяющим игрокам управлять гоночной машиной и избегать столкновений с машинами соперников на многополосной трассе.||
 ### Учебные проекты 
 ## Java
 | Name          | Description        |
